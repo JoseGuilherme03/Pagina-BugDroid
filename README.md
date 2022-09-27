@@ -1,2 +1,2 @@
 # Bugdroid
- Site informativo sobre o BugDroid, feito no curso de html-css
+ Link para acessar o site: https://joseguilherme03.github.io/Pagina-BugDroid/
