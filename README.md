@@ -1,2 +1,2 @@
-# html-css
- Projetos basicos para exercitar html5 e css3
+# Bugdroid
+ Site informativo sobre o BugDroid, feito no curso de html-css
